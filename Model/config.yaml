@@ -29,5 +29,5 @@ checkpoint:
   load_dir_checkpoint: None
   save_frequency: 1
 system:
-  log_dir_system: /save/single_cube
-  data_root: /data
+  log_dir_system: /content/save/single_cube
+  data_root: /content/data
