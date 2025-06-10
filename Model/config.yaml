@@ -29,5 +29,5 @@ checkpoint:
   load_dir_checkpoint: None
   save_frequency: 1
 system:
-  log_dir_system: /content/save/single_cube
+  log_dir_system: /content/drive/MyDrive/Colab-Notebooks/Pose-Estimation/save/single_cube
   data_root: /content/data
